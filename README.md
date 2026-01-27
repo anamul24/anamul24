@@ -54,15 +54,9 @@ I’m a web developer who enjoys building clean, reliable websites and learning 
 
 <br/>  
  
-<table><tr><td valign="top" width="50%">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamul24)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=anamul24&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamul24&hide_border=true&layout=compact" align="right" style="width: 100%" /></div>
-
-</td></tr></table>  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anamul24&show_icons=true&count_private=true) 
 
 <br/>  
 
