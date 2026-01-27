@@ -1,11 +1,3 @@
-## Hi
-I'm Anamul Islam
-#### Web Developer
-I’m a web developer who enjoys building clean, reliable websites and learning by working on real projects. I focus on writing simple, maintainable code and improving my skills every day. I like solving problems, exploring new technologies, and steadily growing as a developer.
-
-Skills: REACT / JS / HTML / CSS/ 
-
-
 <br/>  
 
 <div align="center">
@@ -13,7 +5,15 @@ Skills: REACT / JS / HTML / CSS/
 </div>  
   
 
-<br/>  
+<br/>
+## Hi, I'm Anamul Islam
+#### Web Developer
+I’m a web developer who enjoys building clean, reliable websites and learning by working on real projects. I focus on writing simple, maintainable code and improving my skills every day. I like solving problems, exploring new technologies, and steadily growing as a developer.
+
+Skills: REACT / JS / HTML / CSS/ 
+
+
+  
 
 <div align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anamul-islam-ab907a242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
