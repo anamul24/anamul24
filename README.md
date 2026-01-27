@@ -53,7 +53,6 @@ I’m a web developer who enjoys building clean, reliable websites and learning 
 </div>  
 
 <br/>  
-
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
