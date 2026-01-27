@@ -1,7 +1,7 @@
 
 I'm Anamul Islam
 #### Web Developer
-I’m a web developer who enjoys building clean, reliable websites and learning by working on real projects. I focus on writing simple, maintainable code and improving my skills every day. I like solving problems, exploring new technologies, and steadily growing as a developer.
+I’m a web developer who enjoys building clean, reliable websites and learning through real-world projects. I focus on writing simple, maintainable code and improving my skills every day. I like solving problems, exploring new technologies, and steadily growing as a developer.
 
 <br/>  
 
@@ -53,7 +53,7 @@ I’m a web developer who enjoys building clean, reliable websites and learning 
 </div>  
 
 <br/>  
-## Github Stats  
+##Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=anamul24&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
