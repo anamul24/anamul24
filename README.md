@@ -10,10 +10,6 @@ I’m a web developer who enjoys building clean, reliable websites and learning 
   
 
 <br/>
-
-Skills: REACT / JS / HTML / CSS/ 
-
-
   
 
 <div align="center">
@@ -57,7 +53,18 @@ Skills: REACT / JS / HTML / CSS/
 
 <br/>  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anamul24&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamul24&hide_border=true&layout=compact" align="right" style="width: 100%" /></div>
+
+</td></tr></table>  
+
+<br/>  
 
  
 
