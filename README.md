@@ -5,12 +5,10 @@ I’m a web developer who enjoys building clean, reliable websites and learning 
 
 Skills: REACT / JS / HTML / CSS/ 
 
-<br/>  
 
+<div align="center">
 ![Profile views counter](https://komarev.com/ghpvc/?username=anamul24&&style=flat-square)  
-  
-
-<br/>
+ </div> 
 
 <div align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anamul-islam-ab907a242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
