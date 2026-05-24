@@ -54,9 +54,7 @@ I’m a web developer who enjoys building clean, reliable websites and learning 
 
 <br/>  
  
-![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=anamul24&theme=dark)
-
-![anamul24's GitHub Stats](https://readme-stats-github.pages.dev/api?username=anamul24&theme=dark)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=anamul24&theme=dark) ![anamul24's GitHub Stats](https://readme-stats-github.pages.dev/api?username=anamul24&theme=dark)
 
 <br/>  
 
